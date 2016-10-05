@@ -1,3 +1,7 @@
-p {
-  color: Green;
+ body {
+  text-align: center;
+}
+
+header {
+  font-family: Arial, serif;
 }
