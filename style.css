@@ -1,4 +1,4 @@
- body {
+ header {
   text-align: center;
 }
 
@@ -6,7 +6,4 @@ header {
   font-family: Arial, serif;
 }
 
-ul {
-  padding: 250px 0;
-  margin: 30px;
-}
+
