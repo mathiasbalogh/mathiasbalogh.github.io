@@ -13,6 +13,10 @@ body {
 }
 
 ul {
-  display:inline-block;
+  display:list-item;
   text-align:left;
+}
+
+h3 {
+  text-decoration: underline;
 }
