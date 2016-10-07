@@ -14,7 +14,8 @@ body {
 }
 
 ul {
-  text-indent:100px;
+  display:inline-block;
+  text-align:left;
   font-weight:bold;
 }
 
