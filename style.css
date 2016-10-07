@@ -4,10 +4,10 @@ body {
 
 .header {
   text-align: center;
-}
-
-.header {
   font-family: Papyrus, Copperplate, serif;
 }
 
+.main {
+  text-indent: 50px;
+}
 
