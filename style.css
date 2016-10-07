@@ -14,6 +14,7 @@ img{
 }
 
 .main {
+  clear:right;
   font-family: Goudy Old Style, Century Gothic, serif;
 }
 
