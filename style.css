@@ -6,6 +6,7 @@ body {
 
 img{
   float:right;
+ max-height:100%;
 }
 
 .header {
