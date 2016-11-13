@@ -13,7 +13,7 @@ img{
  max-height:100%;
 }
 
-header {
+.header {
   padding:10px;
   border-bottom:3px;
   border-style:double;
