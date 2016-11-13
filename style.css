@@ -13,12 +13,16 @@ header {
   font-family: Papyrus, Copperplate, serif;
   font-weight:bold;
 }
-
 main {
   clear:right;
   font-family: Goudy Old Style, Century Gothic, serif;
 }
-
+section1 {
+  border-width:1px;
+  border-style:double;
+  border-color:#000000;
+}
+  
 ul {
   display:inline-block;
   font-weight:bold;
