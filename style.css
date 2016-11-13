@@ -1,7 +1,11 @@
+body, header,main,ul,li,h1,h2,h3,h4,p {
+ padding:0 0 0 0;
+ border:0 0 0 0;
+ margin:0 0 0 0;
+}
 body {
  background-image: url("http://img10.deviantart.net/f207/i/2012/283/1/7/old_paper_00077_by_trug_bild-d5hazz9.jpg");
  text-align:left;
- padding:2em 5em 5em 5em;
 }
 
 img{
@@ -15,10 +19,10 @@ img{
 }
 .main {
   clear:right;
-  font-family: Goudy Old Style, Century Gothic, serif;
+  font-family: "Goudy Old Style", "Century Gothic", serif;
 }
 .section1 {
-  border-width:1px;
+  border-width:2px;
   border-style:double;
   border-color:#000000;
 }
@@ -26,7 +30,6 @@ img{
 ul {
   display:inline-block;
   font-weight:bold;
-  margin: 1em 1em 1em 4em;
 }
 
 h3 {
@@ -37,6 +40,5 @@ h1,h4 {
  text-align:center;
 }
 p {
-  margin: 1em 1em 1em 5em;
   font-weight:bold;
 }
