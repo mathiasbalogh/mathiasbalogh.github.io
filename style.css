@@ -12,6 +12,10 @@ img{
   float:right;
  max-height:100%;
  border-radius:50%;
+ transition: scale 1s ease-in-out;
+}
+img:hover{
+ transform: scale(1.5);
 }
 
 header {
