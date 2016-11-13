@@ -9,12 +9,12 @@ img{
  max-height:100%;
 }
 
-.header {
+header {
   font-family: Papyrus, Copperplate, serif;
   font-weight:bold;
 }
 
-.main {
+main {
   clear:right;
   font-family: Goudy Old Style, Century Gothic, serif;
 }
