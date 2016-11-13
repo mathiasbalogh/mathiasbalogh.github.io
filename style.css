@@ -22,15 +22,14 @@ header {
   font-weight:bold;
 }
 main {
-  clear:right;
   font-family: "Goudy Old Style", "Century Gothic", serif;
+  margin: 10px auto 10px auto;
 }
 section1 {
   padding:10px;
   border-width:2px;
   border-style:double;
   border-color:#000000;
-  margin: 10px auto 10px auto;
 }
   
 ul {
