@@ -13,15 +13,19 @@ img{
  max-height:100%;
 }
 
-.header {
+header {
+  padding:10px;
+  border-bottom:3px;
+  border-style:double;
+  margin:10px auto 10px auto;
   font-family: Papyrus, Copperplate, serif;
   font-weight:bold;
 }
-.main {
+main {
   clear:right;
   font-family: "Goudy Old Style", "Century Gothic", serif;
 }
-.section1 {
+section1 {
   border-width:2px;
   border-style:double;
   border-color:#000000;
