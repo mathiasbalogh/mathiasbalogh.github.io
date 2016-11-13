@@ -25,6 +25,7 @@ header {
 main {
   font-family: "Goudy Old Style", "Century Gothic", serif;
   margin: 10px auto 10px auto;
+  text-align:center;
 }
 section1 {
   padding:10px;
