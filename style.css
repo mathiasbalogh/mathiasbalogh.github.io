@@ -37,20 +37,20 @@ main {
  border-bottom-width: 3px;
  border-bottom-style:double;
  padding-bottom:20px;
- max-width:500px;
+ max-width:600px;
 }
 #work {
   padding:10px;
   border-width:3px;
   border-style:double;
-  max-width:575px;
+  max-width:650px;
   margin:10px auto 10px auto;
 }
 #school{
   padding:10px;
   border-width:3px;
   border-style:double;
-  max-width:550px;
+  max-width:600px;
   margin:10px auto 10px auto;
 }
 ul {
