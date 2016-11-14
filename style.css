@@ -20,9 +20,10 @@ img:hover{
 
 header {
   padding:10px;
+  padding-left:150px;
   border-bottom-width:3px;
   border-bottom-style:double;
-  margin:10px auto 10px 120px;
+  margin:10px auto 10px auto;
   font-family: Papyrus, Copperplate, serif;
   font-weight:bold;
 }
