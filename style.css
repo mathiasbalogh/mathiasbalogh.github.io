@@ -9,7 +9,7 @@ body {
 }
 
 img{
-  float:right;
+ display:inline;
  max-height:100%;
  border-radius:50%;
  transition: scale 1s ease-in-out;
@@ -20,12 +20,12 @@ img:hover{
 
 header {
   padding:10px;
-  padding-left:150px;
   border-bottom-width:3px;
   border-bottom-style:double;
   margin:10px auto 10px auto;
   font-family: Papyrus, Copperplate, serif;
   font-weight:bold;
+  text-align:center;
 }
 main {
   font-family: "Goudy Old Style", "Century Gothic", serif;
@@ -41,8 +41,18 @@ main {
 }
 #work {
   padding:10px;
+  border-width:3px;
+  border-style:double;
+  max-width:575px;
+  margin:10px auto 10px auto;
 }
-  
+#school{
+  padding:10px;
+  border-width:3px;
+  border-style:double;
+  max-width:550px;
+  margin:10px auto 10px auto;
+}
 ul {
   max-width: 500px;
   text-align:left;
@@ -55,9 +65,10 @@ h3 {
   text-align:center;
   margin-bottom:20px;
 }
-h1,h4 {
- text-align:center;
+h1{
+  padding-top:50px;
 }
 p {
+  padding-bottom:10px;
   font-weight:bold;
 }
