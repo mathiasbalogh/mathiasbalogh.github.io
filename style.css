@@ -22,7 +22,7 @@ header {
   padding:10px;
   border-bottom-width:3px;
   border-bottom-style:double;
-  margin:10px auto 10px 120px;
+  margin:10px auto 10px auto;
   font-family: Papyrus, Copperplate, serif;
   font-weight:bold;
 }
@@ -35,6 +35,10 @@ main {
  margin:10px auto 10px 120px;
  border-bottom-width: 3px;
  border-bottom-style:double;
+}
+.purpose.p{
+max-width:500px;
+text-align:center;
 }
 .work {
   padding:10px;
