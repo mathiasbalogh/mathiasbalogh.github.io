@@ -31,6 +31,11 @@ main {
   margin: 10px auto 10px auto;
   text-align:center;
 }
+.purpose{
+ margin:10px auto 10px 120px;
+ border-bottom-width: 3px;
+ border-bottom-style:double;
+}
 .work {
   padding:10px;
 }
