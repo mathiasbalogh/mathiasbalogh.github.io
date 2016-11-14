@@ -31,16 +31,16 @@ main {
   margin: 10px auto 10px auto;
   text-align:center;
 }
-.purpose{
+section.purpose{
  margin:10px auto 10px 120px;
  border-bottom-width: 3px;
  border-bottom-style:double;
 }
-.purpose.p{
+section.purpose.p{
 max-width:500px;
 text-align:center;
 }
-.work {
+section.work {
   padding:10px;
 }
   
