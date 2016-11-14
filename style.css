@@ -26,8 +26,8 @@ header {
   font-family: Papyrus, Copperplate, serif;
   font-weight:bold;
   text-align:center;
-  background-color:ghostwhite;
-  opacity:0.70;
+  background: rgb(248,248,255);
+  background: rgba(248, 248, 255, 0.7);
 }
 main {
   font-family: "Goudy Old Style", "Century Gothic", serif;
@@ -47,8 +47,8 @@ main {
   border-style:double;
   max-width:650px;
   margin:10px auto 10px auto;
-  background-color:ghostwhite;
-  opacity:0.70;
+  background: rgb(248,248,255);
+  background: rgba(248, 248, 255, 0.7);
 }
 #school{
   padding:10px;
@@ -56,8 +56,8 @@ main {
   border-style:double;
   max-width:600px;
   margin:10px auto 10px auto;
-  background-color:ghostwhite;
-  opacity:0.70;
+  background: rgb(248,248,255);
+  background: rgba(248, 248, 255, 0.7);
 }
 ul {
   max-width: 500px;
